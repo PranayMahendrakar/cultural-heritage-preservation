@@ -6,3 +6,4 @@
 - [2026-04-28T14:03:05Z] refactor: clean up unused imports
 - [2026-04-28T08:58:12Z] docs: improve inline documentation
 - [2026-04-28T18:57:20Z] perf: optimize loop for better performance
+- [2026-04-28T22:21:18Z] fix: resolve edge case in input validation
